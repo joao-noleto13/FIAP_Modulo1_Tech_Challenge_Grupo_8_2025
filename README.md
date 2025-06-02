@@ -74,8 +74,8 @@ As visualizações e métricas (R², MAE, MSE) reforçaram a qualidade do modelo
 
 ## Integrantes do Grupo
 
-- João Pedro Noleto – RA: 363789  
-- Nome 2 – RA: XXXXXXX  
-- Nome 3 – RA: XXXXXXX  
-- Nome 4 – RA: XXXXXXX  
-- Nome 5 – RA: XXXXXXX  
+João Pedro Noleto – RA: 363789
+Danilo Almeida de Sousa – RA: 362639
+Allan dos Santos – RA: 362388
+Thiago Silva França – RA: 361249
+Emerson Luis Saturnino – RA: 362286 
