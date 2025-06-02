@@ -26,18 +26,9 @@ Este desafio integra o módulo de aprendizado do curso de pós-graduação em In
 
 ## Configuração e Execução
 
-1. **Acesse o notebook no Google Colab**  
-   O arquivo principal do projeto é o `Custos_medicos_individuais.ipynb`.
-
-2. **Instale as dependências**  
-   Caso esteja utilizando ambiente local, execute:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Execute o notebook**  
-   Siga as células do notebook sequencialmente para realizar a análise, treinamento e avaliação dos modelos.
+1. Acesse o [Google Colab](https://colab.research.google.com/)
+2. Faça upload do arquivo `Custos_medicos_individuais.ipynb`
+3. Execute as células do notebook sequencialmente para visualizar a análise, a modelagem e os resultados
 
 ---
 
